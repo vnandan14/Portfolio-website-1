@@ -27,8 +27,10 @@ portfolio-website/
 ```
 
 ## 📸 Screenshots
+<img width="1440" height="900" alt="port1" src="https://github.com/user-attachments/assets/e23c80b4-3359-49e4-a5bd-9aab1283f310" />
+<img width="1440" height="900" alt="port3" src="https://github.com/user-attachments/assets/91cd7f9e-8e26-48ae-9701-ce55a3db2e43" />
 <img width="1440" height="900" alt="port4" src="https://github.com/user-attachments/assets/6168d6cf-408b-4447-a75e-d15e4dc7fbed" />
-
+<img width="1440" height="900" alt="port2" src="https://github.com/user-attachments/assets/2830774d-2339-4e95-b490-f98a47660c66" />
 ## 👨‍💻 Author
 **Venktesh Nandan**
 - GitHub: https://github.com/vnandan14
