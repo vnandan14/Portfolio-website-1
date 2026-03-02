@@ -27,7 +27,7 @@ portfolio-website/
 ```
 
 ## 📸 Screenshots
-
+<img width="1440" height="900" alt="port4" src="https://github.com/user-attachments/assets/6168d6cf-408b-4447-a75e-d15e4dc7fbed" />
 
 ## 👨‍💻 Author
 **Venktesh Nandan**
